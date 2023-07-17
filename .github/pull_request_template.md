@@ -1,5 +1,5 @@
 ### Descripción
-[//]: <> (Aca debe ir la descripcion del PullRequest, que es? que hace?)
+[//]: <> (Aca debe ir la descripcion del PullRequest, que es? que hace)
 
 
 ### Feeling
